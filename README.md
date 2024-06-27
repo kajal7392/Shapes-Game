@@ -30,7 +30,11 @@ git clone https://github.com/kajal7392/Shapes-Game.git
 
 ## License
    This project is licensed under the MIT License.
+   
 
-    You can copy and paste this code into a `README.md` file in your repository.
+
+
+
+
 
 
