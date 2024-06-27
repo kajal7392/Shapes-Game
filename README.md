@@ -28,8 +28,7 @@ git clone https://github.com/kajal7392/Shapes-Game.git
 
 2. Open the **index.html** file in your web browser to view the game.
 
-## License
-   This project is licensed under the MIT License.
+
    
 
 
