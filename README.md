@@ -20,6 +20,7 @@ A simple game created using only HTML and CSS. The game features three different
 ## How to Run
 
 1. Clone the repository to your local machine:
+2. Open the index.html file in your web browser to view the game.
 
 ```bash
 git clone https://github.com/kajal7392/Shapes-Game.git
